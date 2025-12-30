@@ -1,6 +1,6 @@
 # Prehistorik 2 - C++ SDL2 Port
 
-A complete C++ port of the Prehistorik 2 level viewer, using SDL2 for graphics. This is a 1:1 feature-complete port of the original C#/.NET/Tilengine implementation.
+A complete C++ port of the Prehistorik 2 level viewer, using SDL2 for graphics.
 
 ## Features
 
@@ -190,5 +190,4 @@ This is a fan project for educational purposes. Prehistorik 2 is © Titus Intera
 ## Credits
 
 - Original game by Titus Interactive (1993)
-- Original C# viewer code
 - C++ port using SDL2
